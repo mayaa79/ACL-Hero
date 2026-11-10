@@ -61,8 +61,12 @@ Instalator nie jest jeszcze podpisany certyfikatem, dlatego przy pierwszym uruch
 
 Błędy i pomysły zgłaszaj w zakładce [Issues](https://github.com/mayaa79/ACL-Hero/issues). Jeśli program oszczędził Ci czasu, zostaw ⭐: dzięki temu łatwiej go znaleźć innym administratorom.
 
+## Licencja
+
+ACL-Hero jest darmowy (freeware) do użytku prywatnego i firmowego. Szczegóły: [LICENSE.md](LICENSE.md).
+
 ---
 
 ### English
 
-**ACL-Hero** is a free tool for Windows / Active Directory administrators: NTFS and share permission reports (effective access, nested groups, risks, per-user access, export to CSV/XLSX/PDF), a safe permission editor with preview, backup and one-click undo, and AD security group management. Requires a domain-joined Windows Server 2016+ or Windows 10/11 machine and a Domain Admins account. The interface is currently in Polish. [Download the latest installer](https://github.com/mayaa79/ACL-Hero/releases/latest).
+**ACL-Hero** is a free tool for Windows / Active Directory administrators: NTFS and share permission reports (effective access, nested groups, risks, per-user access, export to CSV/XLSX/PDF), a safe permission editor with preview, backup and one-click undo, and AD security group management. Requires a domain-joined Windows Server 2016+ or Windows 10/11 machine and a Domain Admins account. The interface is currently in Polish. [Download the latest installer](https://github.com/mayaa79/ACL-Hero/releases/latest). Freeware, see [LICENSE.md](LICENSE.md).
