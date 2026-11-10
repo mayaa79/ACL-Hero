@@ -30,7 +30,7 @@ Program zawiera komponenty udostępniane na ich własnych licencjach:
 
 - **.NET Runtime** oraz **System.DirectoryServices**, **System.DirectoryServices.AccountManagement**, **System.DirectoryServices.Protocols** (© .NET Foundation and Contributors), licencja MIT
 - **ClosedXML** (© ClosedXML contributors), licencja MIT
-- **PDFsharp / MigraDoc** (© empira Software GmbH), licencja MIT
+- **SkiaSharp** (© Xamarin, Inc., Microsoft Corporation), licencja MIT, wraz z silnikiem **Skia** (© Google, licencja BSD-3-Clause) i bibliotekami pomocniczymi wymienionymi w pliku `SkiaSharp-THIRD-PARTY-NOTICES.txt` instalowanym razem z Programem
 - **Czcionka Inter** (© The Inter Project Authors), licencja SIL Open Font License 1.1, której tekst jest dołączony do Programu w pliku `Inter-OFL.txt`
 
 Niniejsza licencja nie ogranicza praw wynikających z tych licencji.
@@ -47,4 +47,4 @@ Copyright © 2026 Marcin Majewski. All rights reserved.
 
 ACL-Hero is **free for personal and commercial use** on any number of servers and computers, including use while providing paid IT services. You may **redistribute the unmodified installer free of charge**, together with this license. You may **not** sell it, modify, decompile or reverse-engineer it (except where the law expressly allows), remove author or license information, or bundle it with adware or malware.
 
-The software is provided **"AS IS", without warranty of any kind**. The administrator approving permission or group changes is responsible for them. To the maximum extent permitted by law, the author is not liable for any damages arising from its use, including data loss or unauthorized access. Third-party components (.NET Runtime and System.DirectoryServices, ClosedXML, PDFsharp/MigraDoc: MIT; Inter font: SIL OFL 1.1) remain under their own licenses. The Polish version above prevails; Polish law applies.
+The software is provided **"AS IS", without warranty of any kind**. The administrator approving permission or group changes is responsible for them. To the maximum extent permitted by law, the author is not liable for any damages arising from its use, including data loss or unauthorized access. Third-party components (.NET Runtime and System.DirectoryServices, ClosedXML, SkiaSharp: MIT; Skia: BSD-3-Clause; Inter font: SIL OFL 1.1) remain under their own licenses. The Polish version above prevails; Polish law applies.
